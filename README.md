@@ -11,6 +11,11 @@ Disclaimer: The abbreviation CHD is not an industry practice. If you say "I have
 
 ## Why Use a CHD?
 React Review:
+
 One of the benefits of React is the Virtual DOM, which allows us to target specific portions of a page for smaller updates rather than rerendering the entire page with every small change. In order to make the most of this, it is best practice to break down your application into smaller, reusable components that pass props to each other. 
 
 As your applications become more complicated, the list of components gets longer, and it gets increasinglyy difficult to keep track of all of the pieces in your brain. A component hierarchy diagram (aka component level diagram) can be used to visualize where all the pieces fit.
+
+## Examples
+
+<img src="./screenshots/simple_wet_sm.jpg" alt="drawing" width="400"/>
