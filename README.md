@@ -22,4 +22,4 @@ As your applications become more complicated, the list of components gets longer
 
 This is what it might look like in Vanilla JS if you were to make a diagram of HTML, CSS, and JS files.
 
-<img src="./screenshots/simple_wet_sm.jpg" alt="drawing" width="400"/><img src="./screenshots/simple_dry_sm.jpg" alt="drawing" width="400"/>
+<img src="./screenshots/simple_wet_sm.jpg" alt="drawing" width="400"/>  <img src="./screenshots/simple_dry_sm.jpg" alt="drawing" width="400"/>
