@@ -7,19 +7,9 @@ A component hierarchy diagram is a useful tool in planning a React application w
 
 _Disclaimer: The abbreviation CHD is not a software engineering accronym. If you say "I have a CHD," in an interview, you will get strange looks._
 
-## Objectives
-- Learn what a component hierarchy diagram is, and why it is useful in planning React app development
-- Review examples of a diagram for a social media site
-
 ## Why Use a CHD?
 React Review:
 
 One of the benefits of React is the Virtual DOM, which allows us to target specific portions of a page for smaller updates rather than rerendering the entire page with every small change. In order to make the most of this, it is best practice to break down your application into smaller, reusable components that pass props to each other. 
 
 As your applications become more complicated, the list of components gets longer, and it gets increasingly difficult to keep track of all of the pieces in your brain. A component hierarchy diagram (aka component level diagram) can be used to visualize where all the pieces fit.
-
-## Vanilla JS Examples
-
-This is what it might look like in Vanilla JS if you were to make a diagram of HTML, CSS, and JS files.
-
-<img src="./screenshots/simple_wet_sm.jpg" alt="drawing" width="400" height="300"/>     <img src="./screenshots/simple_dry_sm.jpg" alt="drawing" width="400" height="300"/>
