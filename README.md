@@ -18,4 +18,22 @@ As your applications become more complicated, the list of components gets longer
 
 Let's look at Facebook for an example. 
 
-<img src="./screenshots/fb.png" alt="drawing" width="75%"/>
+<img src="./screenshots/fb.png" alt="fb" width="100%"/>
+
+<img src="./screenshots/chd.jpeg" alt="chd" width="100%"/>
+
+The navigation bar on the top is always there, with component pages that render under it. In the photo above, we can see the Home page. 
+
+On this page, we see many various components: a side bar, a contact list, a newsfeed, and more.
+
+Each of these components also has smaller components attatch to them. For example, the "Contacts" component render several individual "Contact" components. The "NewsFeed" component renders many "Post" components.
+
+This component hierarchy diagram can help us map out how all of these pieces fit together before we start writing a lengthy React application with many component files.
+
+## Resources
+
+There are many applications out there for creating diagrams like:
+
+[LucidChart](https://www.lucidchart.com/pages/)
+
+[Draw.io](draw.io)
