@@ -1,4 +1,7 @@
 # Component Hierarchy Diagrams
+
+![](https://www.organimi.com/wp-content/uploads/2021/05/what-is-a-hierarchy-diagram-scaled.jpeg)
+
 ## Overview
 In this lesson, we'll learn about component hierarcy diagrams and how to use them when building a complicated project. We'll also review component hierarcy diagrams of popular websites such as facebook.com.
 
