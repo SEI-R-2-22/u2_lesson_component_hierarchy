@@ -10,7 +10,7 @@ A component hierarchy diagram is a useful tool in planning a React application w
 
 _Disclaimer: The abbreviation CHD is not a software engineering accronym. If you say "I have a CHD," in an interview, you will get strange looks._
 
-## Why Use a CHD?
+## Why Use a Component Hierarchy Diagram?
 React Review:
 
 One of the benefits of React is the Virtual DOM, which allows us to target specific portions of a page for smaller updates rather than rerendering the entire page with every small change. In order to make the most of this, it is best practice to break down your application into smaller, reusable components that pass props to each other. 
